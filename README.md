@@ -1,6 +1,6 @@
 # WiredTreehouse
 
-this is a website I made hosted on AWS S3 free tire.  
+this is a website I made hosted on AWS S3 free tier.  
 htm & css files are in www dir.  
 started project for experimenting with colors, UI, responsive web design & s3 as a host. 
 
