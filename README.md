@@ -1,10 +1,5 @@
 # WiredTreehouse
 
-this is a website I made hosted on AWS S3 free tier.  
-htm & css files are in www dir.  
-started project for experimenting with colors, UI, responsive web design & s3 as a host. 
+This is a website I made and hosted on AWS S3 free tier as part of my bachelor program (information technology). I had classes in web design, AWS, cloud, etc. This was a place to experiment with concepts, colors, UI, responsive web design & S3 as a web host. (That's why there's no https option at woredtreehouse.com.)
 
-but as it went, i got more attached to it, so ended up keeping it live.  
-
-for now, it lives on as a sandbox.  or maybe closer to a sand castle. 
-
+It lives on as a sandbox, or maybe closer to a sand castle. 
